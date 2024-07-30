@@ -1,3 +1,4 @@
+![logo](https://github.com/aakashthapa12/aakashthapa12/blob/main/aksh1.png)
 <h1 align="center">Hi 👋, I'm Aakash Thapa</h1>
 <h3 align="center">A passionate Software Engineer Developer from India</h3>
 

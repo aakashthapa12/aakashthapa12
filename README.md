@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/thapa_aak12" target="blank"><img src="https://img.shields.io/twitter/follow/thapa_aak12?logo=twitter&style=for-the-badge" alt="thapa_aak12" /></a> </p>
 
-- 📄 Know about my experiences [I've worked as an SWE intern](I've worked as an SWE intern)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
